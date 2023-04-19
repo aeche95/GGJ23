@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Arte/UI/base.uss?fileID=7433441132597879392&amp;guid=f8124817ca2e9054b97181ca1969fcc7&amp;type=3#base" />
+    <Style src="project://database/Assets/Arte/UI/Textos.uss?fileID=7433441132597879392&amp;guid=7d347b9c8204d054cbc21419ce07ce71&amp;type=3#Textos" />
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:Label tabindex="-1" text="Titulo del juego" display-tooltip-when-elided="true" name="Titulo" style="-unity-text-align: upper-center;" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" />
+    </ui:VisualElement>
+</ui:UXML>

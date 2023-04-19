@@ -1,0 +1,4 @@
+.unity-text-element {
+    -unity-font: resource('FlatSkin/Font/Roboto-BoldItalic');
+    -unity-font-style: italic;
+}
